@@ -1,0 +1,20 @@
+[26-Dec-2021 14:54:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[26-Dec-2021 14:54:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[27-Dec-2021 11:05:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[27-Dec-2021 11:05:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[05-Jan-2022 11:51:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[05-Jan-2022 11:51:16 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[17-Jan-2022 13:32:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[17-Jan-2022 13:32:39 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[20-Feb-2022 08:30:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[20-Feb-2022 08:30:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[01-Mar-2022 11:14:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[01-Mar-2022 11:14:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[01-Mar-2022 11:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[01-Mar-2022 11:14:23 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[01-Mar-2022 12:29:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[01-Mar-2022 12:29:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[08-Mar-2022 09:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 36
+[08-Mar-2022 09:06:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/view_appointment_details.php on line 37
+[13-Dec-2022 14:15:14 UTC] PHP Notice:  Undefined index: minute in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/add_appointment.php on line 29
+[04-Jan-2023 11:40:44 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/app_api/appointments/checkin_appointment.php on line 23

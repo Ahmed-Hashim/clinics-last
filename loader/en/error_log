@@ -1,0 +1,14 @@
+[10-Aug-2021 08:02:37 UTC] PHP Notice:  Undefined variable: system_account_id in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_new.php on line 32
+[26-Aug-2021 11:39:00 UTC] PHP Notice:  Undefined variable: system_account_id in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_new.php on line 32
+[13-Sep-2021 11:47:06 UTC] PHP Notice:  Undefined variable: system_account_id in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_new.php on line 32
+[28-Sep-2021 12:53:55 UTC] PHP Notice:  Undefined variable: system_account_id in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_new.php on line 32
+[13-Nov-2023 19:28:32 UTC] PHP Warning:  Undefined array key "clinic_name_ar" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 43
+[13-Nov-2023 19:28:32 UTC] PHP Warning:  Undefined array key "clinic_address" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 44
+[13-Nov-2023 19:28:32 UTC] PHP Warning:  Undefined array key "file_num_start" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 45
+[13-Nov-2023 19:28:32 UTC] PHP Warning:  Undefined array key "status" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 46
+[13-Nov-2023 19:30:48 UTC] PHP Warning:  Undefined variable $system_account_id in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_new.php on line 32
+[16-Nov-2023 13:39:59 UTC] PHP Warning:  Undefined variable $system_account_id in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_new.php on line 32
+[17-Nov-2023 22:03:41 UTC] PHP Warning:  Undefined array key "clinic_name_ar" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 43
+[17-Nov-2023 22:03:41 UTC] PHP Warning:  Undefined array key "clinic_address" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 44
+[17-Nov-2023 22:03:41 UTC] PHP Warning:  Undefined array key "file_num_start" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 45
+[17-Nov-2023 22:03:41 UTC] PHP Warning:  Undefined array key "status" in /home/wyy8kvbzrh9n/public_html/sb-clinics.axisind.xyz/loader/en/page_hospitals_edit.php on line 46

@@ -1,0 +1,127 @@
+/* CSS Document for printing */
+@charset "utf-8";
+
+body {
+	float:none !important;
+	width:auto;
+	margin:0 auto;
+	background-color:#FFF;
+	font-size:12pt;	
+	}
+	
+/* header */
+#logoline {
+	width:100%;
+	margin:0 auto;
+	height:10%;
+	background-color:#999;	
+}
+	
+#logoc {
+	margin:0 auto;
+	width:80%; 
+	margin:0 auto;
+	}
+	
+#logoimg {
+	margin:0 auto;
+	width:auto; 
+	height:auto;
+	}
+	
+#menur {
+	visibility:hidden !important;
+	}
+#homebut {
+	visibility:hidden !important;
+	}
+	
+#servicesbut {
+	visibility:hidden !important;
+	}
+	
+#lessonbut {
+	visibility:hidden !important;
+	}
+	
+#aboutbut {
+	visibility:hidden !important;
+	}
+	
+#contatbut {
+	visibility:hidden !important;
+	}
+	
+.menutext {
+	visibility:hidden !important;
+	}
+
+#soclinks {
+	visibility:hidden !important;
+	}
+
+/* header END */
+
+
+/* Container */
+#maincont {
+	float:none !important;
+	width: 80%;
+	margin:0 auto;
+	}
+#container {
+	float:none !important;
+	margin:0 auto;
+	width:90%;
+	}
+#contleft {
+	visibility:hidden !important;
+	}
+#contright {
+	visibility:hidden !important;
+	}	
+#leftcont {
+	visibility:hidden !important;
+	}
+#spanner {
+	visibility:hidden !important;
+	}
+.quta1 {
+	visibility:hidden !important;
+	}
+.quta2 {
+	visibility:hidden !important;
+	}
+.quta3 {
+	visibility:hidden !important;
+	}
+.quta4 {
+	visibility:hidden !important;
+	}
+.quta5 {
+	visibility:hidden !important;
+	}
+p.breif1 {
+	visibility:hidden !important;
+	}
+.breif2 {
+	visibility:hidden !important;
+	}
+#rightcont {
+	visibility:hidden !important;
+	}
+#inzero {
+	clear:both !important;
+	visibility:hidden !important;
+	}
+#footer {
+	visibility:hidden !important;
+	}
+#badges {
+	visibility:hidden !important;
+	}
+	
+a {
+	display:none;
+	visibility:hidden !important;
+}

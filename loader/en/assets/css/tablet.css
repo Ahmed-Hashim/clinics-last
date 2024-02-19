@@ -1,0 +1,289 @@
+@font-face {
+    font-family: qq;
+    src: url(Questv1-Regular.ttf);
+}
+body {
+	width:100%;
+	min-width:500px;
+	max-width:799px;
+	margin:1% 1%;
+	font-family: 'calibri', sans-serif;
+	overflow-x:hidden;
+	background:url('../images/bg1.jpg') no-repeat;
+}
+* {
+	transition:all 0.6s ease;
+	margin:0;/* reset default values */
+	padding:0;/* reset default values */
+}
+a {
+	color:inherit;
+	text-decoration: none;
+}
+.zero{
+	clear:both;
+	float:none;
+}
+
+header {
+	width:100%;
+	margin:0 auto;
+	text-align: center;
+	z-index: 1000;
+}
+
+#main-nav {
+	width: 100%;
+}
+
+#main-nav ul {
+	width: 100%;
+	margin: 0 auto;
+	list-style: none;
+	padding: 0;
+	font-size: 0px;
+}
+
+#main-nav ul li {
+	width: 15.666%;
+	float:left;
+	background: rgb(255,172,69);
+	background: -moz-linear-gradient(top, rgba(255,172,69,1) 0%, rgba(255,152,24,1) 100%);
+	background: -webkit-linear-gradient(top, rgba(255,172,69,1) 0%,rgba(255,152,24,1) 100%);
+	background: linear-gradient(to bottom, rgba(255,172,69,1) 0%,rgba(255,152,24,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffac45', endColorstr='#ff9818',GradientType=0 );
+	margin-left: 2px;
+}
+
+#main-nav ul .selected {
+	opacity:0.8;
+}
+#main-nav ul li:hover {
+	opacity:0.8;
+	cursor: pointer;
+}
+#main-nav ul li a {
+	display: block;
+	padding: 5% 3%;
+}
+
+#main-nav ul li a i {
+	font-size: 16px;
+	display: block;
+	width: 100%;
+	color: #fff;
+}
+
+#main-nav ul li a span {
+	margin-top: 5%;
+	font-size: 12px;
+	color: #fff;
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
+
+article {
+	width: 69%;
+	float: left;
+}
+
+#asider {
+	width: 30%;
+  float: right;
+}
+
+#asider #user-nav {
+	width:100%;	
+}
+
+#asider #user-nav ul {
+	list-style:none;
+	padding:0;
+	text-align: left;
+}
+
+#asider #user-nav ul li {
+	background: #32b4ff;
+	margin: 1px;
+	display: inline-block;
+	height: 60px;
+	vertical-align: top;
+	color: #fff;
+	float: left;
+}
+
+
+#asider #user-nav ul li:hover {
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+#asider #user-nav ul li:nth-child(1) {
+	width: 200px;
+	padding: 0.5%;
+}
+
+#asider #user-nav ul li:nth-child(2) {
+	width: 98px;
+	padding: 0.5%;
+}
+
+#asider #user-nav ul li:nth-child(3) {
+	width: 98px;
+	padding: 0.5%;
+}
+
+#asider #user-nav ul li:nth-child(4) {
+	width: 200px;
+	padding: 0.5%;
+}
+
+
+#asider #user-nav ul li a {
+	display: block;
+	padding: 2px 3%;
+}
+
+#asider #user-nav ul li a i {
+	width: 100%;
+	font-size: 28px;
+	margin-top: 5px;
+	vertical-align:bottom;
+}
+#asider #user-nav ul li a span {
+	width: 100%;
+	display: block;
+	font-size: 16px;
+	margin: 2px;
+	vertical-align:bottom;
+	margin-top:2px;
+}
+
+
+
+#asider #sub-nav {
+	width:100%;
+	margin-top:0%;
+}
+
+#asider #sub-nav ul {
+	list-style:none;
+	padding:0;
+	text-align: left;
+	font-size: 0px;
+}
+
+#asider #sub-nav ul li {
+background: rgb(44,83,157);
+background: -moz-linear-gradient(45deg, rgba(44,83,157,1) 0%, rgba(55,100,188,1) 100%);
+background: -webkit-linear-gradient(45deg, rgba(44,83,157,1) 0%,rgba(55,100,188,1) 100%);
+background: linear-gradient(45deg, rgba(44,83,157,1) 0%,rgba(55,100,188,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c539d', endColorstr='#3764bc',GradientType=1 );
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	color: #fff;
+	float: left;
+	width: 44%;
+}
+
+
+#asider #sub-nav ul li:hover {
+	opacity: 0.7;
+	cursor: pointer;
+}
+
+
+#asider #sub-nav ul li a {
+	display: block;
+	padding: 2px 7%;
+}
+
+#asider #sub-nav ul li a i {
+	font-size: 22px;
+	margin-top: 8px;
+	vertical-align:bottom;
+	border-color: rgba(255,255,255,0.2);
+}
+#asider #sub-nav ul li a span {
+	width: 100%;
+	display: block;
+	font-size: 14px;
+	margin: 2px;
+	vertical-align:bottom;
+	margin-top:3px;
+}
+
+
+
+
+#calendar-nav {
+	width:100%;
+	margin-top:5%;
+}
+
+#calendar-nav ul {
+	list-style:none;
+	padding:0;
+	text-align: left;
+	font-size: 0;
+}
+
+#calendar-nav ul li {
+  background: #f4fbff;
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	color: #fff;
+	float: left;
+	width: 15.666%;
+	margin-left: 2px;
+}
+
+
+#calendar-nav ul li:hover {
+	background: #cdeb8b;
+	cursor: pointer;
+}
+#calendar-nav ul .selected {
+	background: #cdeb8b;
+	cursor: pointer;
+}
+
+
+#calendar-nav ul li a {
+	display: block;
+	padding: 1px 3%;
+	color: #717476;
+}
+
+#calendar-nav ul li a h3 {
+	width: 100%;
+	font-size: 26px;
+	margin-top: 7px;
+	vertical-align:bottom;
+	font-weight: normal;
+}
+#calendar-nav ul li a span {
+	width: 100%;
+	display: block;
+	font-size: 10px;
+	margin: 0px;
+	vertical-align:bottom;
+	margin-top:2px;
+	text-align: left;
+	border-top: 1px solid rgba(0,0,0,0.2);
+}
+
+.main-cont {
+    background: #fff;
+    width: 95.5%;
+    height: 200px;
+    margin-top: 3%;
+    margin-left: 2px;
+}
+
+
+
